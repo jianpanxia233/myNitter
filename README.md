@@ -197,3 +197,5 @@ lines). If you're running the Docker image, you can do this:
 
 Feel free to join our [Matrix channel](https://matrix.to/#/#nitter:matrix.org).
 You can email me at zedeus@pm.me if you wish to contact me personally.
+
+redis-server --daemonize yes
